@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
       <Navbar />
-    <h1 className="">Hello</h1>
+    <h1 className="">ello</h1>
     </>
   );
 }
